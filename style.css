@@ -50,3 +50,8 @@ h1{
     font-weight: 700;
     font-size: 22px;
 }
+@media only screen and (max-width: 375px) {
+    h2{
+        padding: auto;
+    }
+}
