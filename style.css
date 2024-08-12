@@ -1,0 +1,52 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+}
+section{
+    width: 320px;
+    color: hsl(0, 0%, 100%);
+    font-size: 14px;
+    margin: auto;
+    background-color: hsl(0, 0%, 12%);
+    text-align: center;
+    border-radius: 4%;
+    padding-bottom: 1%;
+    padding-top: 2%;
+    margin-top: 10%;
+}
+img{
+    width: 70px;
+    border-radius: 50%;
+}
+h2{
+    width: 84%;
+    height: 35px;
+    margin: auto;
+    align-content: center;
+    margin-bottom: 4%;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    font-family: Figtree;
+    font-weight: 600;
+    font-size: 14px;
+}
+h2:hover{
+    cursor: pointer;
+    opacity: 60%;
+}
+.green{
+    color: hsl(75, 94%, 57%);
+    font-family: Figtree;
+    font-weight: 400;
+    font-size: 12px;
+}
+p{
+    font-family: Figtree;
+    font-weight: 400;
+    font-size: 12px;
+    margin-bottom: 8%;
+}
+h1{
+    font-family: Figtree;
+    font-weight: 700;
+    font-size: 22px;
+}
